@@ -42,7 +42,7 @@ Estou sempre estudando, construindo e buscando melhorar como desenvolvedor. Gost
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/pedro-Lnascimento])
+- 💼 [LinkedIn] https://www.linkedin.com/in/pedro-Lnascimento
 - 💌 Email: ph.nascimento1918@gmail.com
 - 🧠 Vamos colaborar em algo legal?
 
